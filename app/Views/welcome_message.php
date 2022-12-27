@@ -15,7 +15,7 @@
             <div class="col"><input type="text" id="a2" ></div>
             <div class="col"><input type="text" id="total" disabled></div>
         </div>
-       <div>durgesh</div> 
+       <div>durgesh2</div> 
     </div>
     <script type="text/javascript">
         $(document).ready(function(){
